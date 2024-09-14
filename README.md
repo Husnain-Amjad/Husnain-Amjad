@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-#- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/husnaintheanalyst](https://www.datascienceportfol.io/husnaintheanalyst)
+<!-- - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/husnaintheanalyst](https://www.datascienceportfol.io/husnaintheanalyst)  -->
 
 - 📫 How to reach me **m.hassnainamjad@gmail.com**
 
